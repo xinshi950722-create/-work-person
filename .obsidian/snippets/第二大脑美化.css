@@ -1,0 +1,39 @@
+/* 第二大脑美化 —— 通用风格增强（自动适配浅色/深色主题） */
+
+/* 1. 标题更精致 */
+.markdown-rendered h1,
+.markdown-rendered h2 {
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.2em;
+}
+.markdown-rendered h1 { letter-spacing: 0.02em; }
+
+/* 2. 引用块更柔和 */
+.markdown-rendered blockquote {
+  border-left: 3px solid var(--interactive-accent);
+  background: var(--background-secondary);
+  border-radius: 0 6px 6px 0;
+  padding: 0.6em 1em;
+  color: var(--text-muted);
+}
+
+/* 3. 行内代码 */
+.markdown-rendered code {
+  background: var(--background-secondary);
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+}
+
+/* 4. 表格 */
+.markdown-rendered table { width: 100%; }
+.markdown-rendered th { background: var(--background-secondary); }
+
+/* 5. 高亮 */
+.markdown-rendered mark {
+  background: var(--text-highlight-bg);
+  padding: 0 0.2em;
+  border-radius: 3px;
+}
+
+/* 6. 正文可读性 */
+.markdown-rendered { line-height: 1.7; }

@@ -1,0 +1,34 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "附件",
+  "autoConvertHtml": true,
+  "cssSnippets": [
+    "第二大脑美化"
+  ],
+  "defaultNewFileLocation": "folder",
+  "newFileFolderPath": "10 Inbox",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "vimMode": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "templates": {
+    "folder": "90 模板",
+    "dateFormat": "YYYY-MM-DD",
+    "timeFormat": "HH:mm",
+    "templatesOnTop": false,
+    "autoCreateNoteWithTemplate": false,
+    "triggerTemplateOnCreate": false,
+    "linkToCreatedNote": false
+  },
+  "daily-notes": {
+    "format": "YYYY-MM-DD",
+    "folder": "60 每日笔记",
+    "template": "90 模板/每日笔记模板"
+  }
+}

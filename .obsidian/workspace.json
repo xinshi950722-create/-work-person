@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "120a5fbec0efacc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1778811f74b1edcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6356e97357a2569c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 AI学习笔记/2026.7.30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026.7.30"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88af0e59bdccfacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "afe9a950e986115c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b46d102e1abd9d1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "33805af4c1864c61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "65cc705412b24bf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be9885c8e654e6af",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ed3be271a193e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c3101f984e0a0ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20 AI学习笔记/2026.7.30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "21bae63cd7a3a03b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1a961cd25eb68cdf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a1d9bf36b24a0956",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "90 模板/MOC 模板.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "MOC 模板 的大纲"
+            }
+          },
+          {
+            "id": "f2e83b3f6e3a8518",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6356e97357a2569c",
+  "lastOpenFiles": [
+    "60 每日笔记/2026-08-17.md",
+    "健身记录/20 训练记录/2026-08-29 腿部训练计划.md",
+    "健身记录/20 训练记录/2026-08-26 胸+三头 训练记录.md",
+    "健身记录/20 训练记录/2026-08-24 肩部训练记录.md",
+    "健身记录/20 训练记录/2026-08-23 腿部训练记录.md",
+    "健身记录/20 训练记录/2026-08-20 背部训练记录.md",
+    "健身记录/20 训练记录/2026-08-19 肩+胸+三头 训练记录.md",
+    "健身记录/20 训练记录/2026-08-17 肩部训练记录.md",
+    "健身记录/20 训练记录/2026-08-15 腿部训练记录.md",
+    "健身记录/20 训练记录/2026-08-14 背部训练记录.md",
+    "健身记录/20 训练记录/2026-08-12 胸部训练记录.md",
+    "健身记录/20 训练记录/2026-08-09 肩部训练计划.md",
+    "健身记录/20 训练记录/2026-08-08 腿部训练计划.md",
+    "健身记录/20 训练记录/2026-08-07 背部训练记录.md",
+    "健身记录/20 训练记录/2026-08-06 胸部训练记录.md",
+    "健身记录/20 训练记录/2026-08-05 胸部训练计划.md",
+    "健身记录/20 训练记录/2026-08-03 肩部训练计划.md",
+    "健身记录/20 训练记录/2026-08-02 肩部训练计划.md",
+    "健身记录/20 训练记录/2026-07-31 腿部训练计划.md",
+    "健身记录/20 训练记录/2026-07-30 背部训练计划.md",
+    "健身记录/20 训练记录/2026-07-29 胸+肩 训练计划.md",
+    "健身记录/20 训练记录/2026-07-25 腿部训练计划.md",
+    "健身记录/20 训练记录/2026-07-24 背部训练计划.md",
+    "健身记录/20 训练记录/2026-07-23 胸+三头.md",
+    "健身记录/20 训练记录",
+    "未命名 1.canvas",
+    "健身记录/README.md",
+    "健身记录/20 训练记录/2026-08-30 腿部训练计划.md",
+    "未命名.canvas",
+    "附件/健身/📇 健身索引 Index.md.baiduyun.uploading.cfg",
+    "附件/健身/🏷️ 健身标签地图 Tags.md.baiduyun.uploading.cfg",
+    "附件/健身/🏠 健身首页 Home.md.baiduyun.uploading.cfg",
+    "附件/健身/食谱/📇 食谱总览 MOC.md.baiduyun.uploading.cfg",
+    "附件/健身/食谱/示例：鸡胸西兰花餐.md.baiduyun.uploading.cfg",
+    "附件/健身/领域/补剂.md.baiduyun.uploading.cfg",
+    "附件/健身/领域/营养饮食.md.baiduyun.uploading.cfg",
+    "附件/健身/领域/有氧心肺.md.baiduyun.uploading.cfg",
+    "附件/健身/领域/恢复与睡眠.md.baiduyun.uploading.cfg"
+  ]
+}
