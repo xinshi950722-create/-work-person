@@ -1,0 +1,20 @@
+{
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "defaultNewFileLocation": "folder",
+  "newFileFolderPath": "20 训练记录",
+  "attachmentFolderPath": "附件",
+  "cssSnippets": ["第二大脑美化"],
+  "livePreview": true,
+  "readableLineLength": true,
+  "templates": {
+    "folder": "90 模板",
+    "dateFormat": "YYYY-MM-DD",
+    "timeFormat": "HH:mm"
+  },
+  "daily-notes": {
+    "format": "YYYY-MM-DD",
+    "folder": "20 训练记录",
+    "template": "90 模板/训练日模板"
+  }
+}

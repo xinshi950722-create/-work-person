@@ -1,0 +1,20 @@
+/* 健身记录仓库美化 - 适配 Obsidian 深浅色主题 */
+:root {
+  --fit-accent: #16a34a;
+}
+
+.markdown-rendered h1 { color: var(--fit-accent); border-bottom: 2px solid var(--fit-accent); padding-bottom: .2em; }
+.markdown-rendered h2 { color: var(--fit-accent); }
+
+.markdown-rendered blockquote {
+  border-left: 3px solid var(--fit-accent);
+  background: rgba(22,163,74,0.08);
+  padding: .6em 1em;
+  border-radius: 0 6px 6px 0;
+}
+
+.markdown-rendered code { background: rgba(127,127,127,0.18); padding: .1em .35em; border-radius: 4px; }
+
+.markdown-rendered th { background: rgba(22,163,74,0.14); color: var(--text-normal); }
+
+a { color: var(--fit-accent); }
